@@ -10,15 +10,15 @@ I am currently a BSIT College student and an aspiring Software Developer
 - ReactJS (Fundamentals)
 - Python (Fundamentals, API, Routing, Backend)
 - MySql (Commands and Data Manipulation)
+- PostGre
 
 ## 🌱 Currently learning::
 - A personal portfolio website
 - Learning JavaScript and APIs
-- ReactJS
+- ReactJS/ Native
 - TypeScript
 
+
 ## 📂 Projects
-- Todo App (JavaScript)
-- Portfolio Website
+- Portfolio Website 
 - Retail Store System
-- Captcha Decoy
